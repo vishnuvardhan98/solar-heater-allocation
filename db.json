@@ -1,0 +1,161 @@
+{
+    "loans": [
+      {
+        "id": 1,
+        "loan_type": "Personal Loans",
+        "category": "personal-loans",
+        "loan_title": "Get Upto 35 Lakhs",
+        "loan_description": "Loans for your sibling’s wedding or funds to tackle COVID-19"
+      },
+      {
+        "id": 2,
+        "loan_type": "Business Loans",
+        "category": "business-loans",
+        "loan_title": "Get Upto 50 Lakh",
+        "loan_description": " Meet your planned and unplanned business expenses at low interest rates"
+      },
+      {
+        "id": 3,
+        "loan_type": "Doctor Loans",
+        "category": "doctor-loans",
+        "loan_title": "Get Upto 55 Lakhs",
+        "loan_description": "Fund your expenses ranging from clinic expansion to child higher education"
+      },
+      {
+        "id": 4,
+        "loan_type": "Home Loan",
+        "category": "home-loans",
+        "loan_title": "Low Interest Rates*",
+        "loan_description": " A wide range of home loans to provide the best-suited plan for you"
+      }
+    ],
+    "contacts": [
+      {
+        "id": 1,
+        "name": "sai bhavan",
+        "address": "105,Ranjani Enclave,Vskp",
+        "enquiry": "General",
+        "contact": 7674013548,
+        "email": "sai.dabbiru@infosys.com"
+      }
+   
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "title": "How do you calculate EMI ?",
+        "description": "You can use our EMI calculator to calculate the monthly installments and tenure that suits you the best.You only need to enter the amount you need to borrow , interest amount and tenure to get the estimate of the installments"
+      },
+      {
+        "id": 2,
+        "title": "Why you should opt loans from Civil Loan?",
+        "description": "Civil-Finloan offers loans that come with host of features and benefits, including Flexi Facility,Instant Approval,Minimal Documentation,Flexible documentation and Money in Bank in 24* hours"
+      },
+      {
+        "id": 3,
+        "title": "How can you contact us?",
+        "description": "Simple ! Just fill in your details in the contact us page and our representative will assist you shortly to take it forward"
+      }
+    ],
+    "business-loans": {
+      "Eligibility": {
+        "nationality ": "Indian",
+        "cibil score": "720 or higher",
+        "age": "25 to 70 years",
+        "documents required": [
+          "KYC documents",
+          "Proof of Property Ownership",
+          "other financial Documents"
+        ],
+        "work status": "self employed or salaried"
+      },
+      "Charges": {
+        "interest": "16",
+        "processing fees": "2"
+      },
+      "Features": {
+        "Low EMIs": "Lower your EMIs by 45% with our unique flexi loan facility",
+        "loan approval": "Submit few documents and get application approved quickly",
+        "high loan value": "get funds upto 80 lakh for financing your business needs by leveraging market value of your property",
+        "Loan repayment tenor": "repay your loan over a long tenure of upto 12 years"
+      }
+    },
+    "doctor-loans": {
+      "Eligibility": {
+        "nationality ": "Indian",
+        "cibil score": "685 or Higher",
+        "age": "24 to 72 years",
+        "documents required": [
+          "KYC documents",
+          "Proof of Business Ownership",
+          "Other Financial Documents"
+        ],
+        "work status": "Self Employed"
+      },
+      "Charges": {
+        "interest": "15",
+        "processing fees": "3.5"
+      },
+      "Features": {
+        "Low EMIs": "Choose Flexi Facility and reduce burden of monthly installments",
+        "loan approval": "fill up simple online form and get application approved quickly",
+        "high loan value": "get funds upto 50 lakh without any restriction of end use",
+        "Loan repayment tenor": "repay your loan in affordable emis split over tenor upto 96 months"
+      }
+    },
+    "home-loans": {
+      "Eligibility": {
+        "nationality ": "Indian",
+        "cibil score": "750 or higher",
+        "age": "28 to 58 years",
+        "documents required": [
+          "KYC documents",
+          "proof of business ownership",
+          "other financial documents"
+        ],
+        "work status": "atleast 3 years of work experience"
+      },
+      "Charges": {
+        "interest": "8.3",
+        "processing fees": "1.5"
+      },
+      "Features": {
+        "Low EMIs": "Choose Flexi Facility and reduce burden of monthly installments",
+        "loan approval": "Civil-Finloan offers unmatched experience with simple application process.The list of documents required is kept minimal",
+        "high loan value": "get funds upto 1 crore for eligible candidates with good credit profile",
+        "Loan repayment tenor": "repay your loan in affordable emis split over tenor upto 18 years"
+      }
+    },
+    "personal-loans": {
+      "Eligibility": {
+        "nationality ": "Indian",
+        "cibil score": "750 or higher",
+        "age": "21 to 67 years",
+        "documents required": [
+          "KYC documents",
+          "proof of business ownership",
+          "other financial documents"
+        ],
+        "employed with": "public,private or MNC"
+      },
+      "Charges": {
+        "interest": "11",
+        "processing fees": "4"
+      },
+      "Features": {
+        "Hidden Charges": "Our fees and charges are mentioned clearly in this page.We advise you to read it before applying",
+        "loan approval": "fill up simple online form and get application approved in 5 minutes",
+        "high loan value": "get funds upto 35 lakh without any restriction of end use",
+        "Loan repayment tenor": "repay your loan in affordable emis split over tenor between 12 to 84 months"
+      }
+    },
+    "calculate": [
+      {
+        "loanAmount": 10000,
+        "tenure": 6,
+        "interest": 16,
+        "id": 1
+      }
+    ]
+  }
+  
